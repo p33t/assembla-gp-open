@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.1" modifiedIn="OpenLP 2.4.1" modifiedDate="2016-05-13T13:03:05">
+  <properties>
+    <titles>
+      <title>Good Good Father</title>
+    </titles>
+    <copyright>© 2014 Capitol CMG Paragon (Admin. by Crossroad Distributors Pty. Ltd.)/Common Hymnal Publishing (Admin. by Crossroad Distributors Pty. Ltd.)/Housefires Sounds (Admin. by Crossroad Distributors Pty. Ltd.)/sixsteps Music (Admin. by Crossroad Distributors Pty. Ltd.)/Tony Brown Publishing Designee (Admin. by Crossroad Distributors Pty. Ltd.)/Vamos Publishing (Admin. by Crossroad Distributors Pty. Ltd.)/worshiptogether.com songs (Admin. by Crossroad Distributors Pty. Ltd.)</copyright>
+    <verseOrder>v1 c1 v2 b1 v3</verseOrder>
+    <ccliNo>7036612</ccliNo>
+    <authors>
+      <author>Anthony Brown</author>
+      <author>Pat Barrett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I've heard a thousand stories<br/>Of what they think You’re like<br/>But I've heard the tender whisper<br/>Of love in the dead of night<br/>You tell me that You’re pleased<br/>And that I'm never alone</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You're a Good Good Father<br/>It's who You are<br/>It's who You are<br/>It's who You are<br/>And I'm loved by You<br/>It's who I am<br/>It's who I am<br/>It's who I am</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've seen many searching for answers<br/>Far and wide<br/>But I know we're all searching for answers<br/>Only You provide<br/>Because You know just what we need<br/>Before we say a word</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You are perfect in all of Your ways<br/>You are perfect in all of Your ways<br/>You are perfect in all of Your ways to us</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Love so undeniable I can hardly speak<br/>Peace so unexplainable I can hardly think<br/>As You call me deeper still<br/>As You call me deeper still<br/>As You call me deeper still<br/>Into love love love</lines>
+    </verse>
+  </lyrics>
+</song>
