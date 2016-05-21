@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.1" modifiedIn="OpenLP 2.4.1" modifiedDate="2016-05-15T01:21:53">
+  <properties>
+    <titles>
+      <title>This I Believe (The Creed)</title>
+    </titles>
+    <copyright>© 2014 Hillsong Music Publishing</copyright>
+    <verseOrder>v1 c1 v2 b1 c2</verseOrder>
+    <ccliNo>7018338</ccliNo>
+    <authors>
+      <author>Ben Fielding</author>
+      <author>Matt Crocker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Our Father everlasting<br/>The all creating One<br/>God Almighty<br/>Through Your Holy Spirit<br/>Conceiving Christ the Son<br/>Jesus our Saviour</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I believe in God our Father<br/>I believe in Christ the Son<br/>I believe in the Holy Spirit<br/>Our God is three in One<br/>I believe in the resurrection<br/>That we will rise again<br/>For I believe in the Name of Jesus</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our judge and our defender<br/>Suffered and crucified<br/>Forgiveness is in You<br/>Descended into darkness<br/>You rose in glorious life<br/>Forever seated high</lines>
+    </verse>
+    <verse name="b1">
+      <lines>I believe in You<br/>I believe You rose again<br/>I believe that Jesus Christ is Lord</lines>
+    </verse>
+    <verse name="c2">
+      <lines break="optional">I believe in life eternal<br/>I believe in the virgin birth<br/>I believe in the saints'communion<br/>And in Your holy Church</lines>
+      <lines>I believe in the resurrection<br/>When Jesus comes again<br/>For I believe in the Name of Jesus</lines>
+    </verse>
+  </lyrics>
+</song>
