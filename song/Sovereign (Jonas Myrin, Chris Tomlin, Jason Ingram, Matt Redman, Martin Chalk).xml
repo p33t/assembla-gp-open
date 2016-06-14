@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.1" modifiedIn="OpenLP 2.4.1" modifiedDate="2016-05-21T11:54:56">
+  <properties>
+    <titles>
+      <title>Sovereign</title>
+    </titles>
+    <copyright>© 2012 S. D. G. Publishing (Admin. by Crossroad Distributors Pty. Ltd.)/sixsteps Music (Admin. by Crossroad Distributors Pty. Ltd.)/Sixsteps Songs (Admin. by Crossroad Distributors Pty. Ltd.)/Thankyou Music (Admin. by Crossroad Distributors Pty. Ltd.)/Worship Together Music (Admin. by Crossroad Distributors Pty. Ltd.)/worshiptogether.com songs (Admin. by Crossroad Distributors Pty. Ltd.)/Open Hands Music (Admin. by Essential Music Publishing LLC)/So Essential Tunes (Admin. by Essential Music Publishing LLC)/Atlas Mountain Songs (Admin. by SHOUT! Music Publishing)/Chalk, Martin</copyright>
+    <ccliNo>6453309</ccliNo>
+    <authors>
+      <author>Chris Tomlin</author>
+      <author>Jason Ingram</author>
+      <author>Jonas Myrin</author>
+      <author>Martin Chalk</author>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Sov'reign in the mountain air<br/>Sov'reign on the ocean floor<br/>With me in the calm<br/>With me in the storm</lines>
+      <lines>Sov'reign in my greatest joy<br/>Sov'reign in my deepest cry<br/>With me in the dark<br/>With me at the dawn</lines>
+    </verse>
+    <verse name="c1">
+      <lines>In Your everlasting arms<br/>All the pieces of my life<br/>From beginning to the end I can trust You<br/>In Your never-failing love<br/>You work ev'rything for good<br/>God whatever comes my way I will trust You<br/>(God whatever comes my way I will trust You)</lines>
+    </verse>
+    <verse name="b1">
+      <lines>All my hopes all I need<br/>Held in Your hands<br/>All my life all of me<br/>Held in Your hands<br/>All my fears all my dreams<br/>Held in Your hands</lines>
+    </verse>
+    <verse name="e1">
+      <lines>God whatever comes my way I will trust You</lines>
+    </verse>
+  </lyrics>
+</song>
