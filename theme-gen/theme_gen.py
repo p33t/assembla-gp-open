@@ -15,9 +15,6 @@ def main():
     parser.add_argument('img_file', nargs='+')
     parsed = parser.parse_args()
 
-    print('Processing ', vars(parsed))
-    template_xml = None
-
     with zipfile.ZipFile(parsed.theme_template_file) as theme_folder:
         contents = theme_folder.filelist
         assert len(contents) > 0, 'Expected at least one file'
@@ -26,7 +23,6 @@ def main():
         xml_bytes = theme_folder.read(desired_filename)
         root = ET.fromstring(xml_bytes)
 
-    print(ET.tostring(root, encoding="UTF-8", xml_declaration=True, pretty_print=True))
     name = root[0]
     assert name.tag == 'name', 'Expected <name> tag to be first'
     background = root[1]
